@@ -1,0 +1,75 @@
+{
+  "project": "AURA-X 2.0 Core",
+  "status": "starter packages; integration incomplete",
+  "packages": [
+    {
+      "name": "AURA-X 2.0 \u2014 Admin Control Center",
+      "zip": "AURA-X_2.0_01-admin-control-center.zip",
+      "port": 8101,
+      "status": "runnable starter"
+    },
+    {
+      "name": "AURA-X 2.0 \u2014 Agent Orchestrator",
+      "zip": "AURA-X_2.0_02-agent-orchestrator.zip",
+      "port": 8102,
+      "status": "runnable starter"
+    },
+    {
+      "name": "AURA-X 2.0 \u2014 Knowledge Store & RAG Starter",
+      "zip": "AURA-X_2.0_03-knowledge-rag-store.zip",
+      "port": 8103,
+      "status": "runnable starter"
+    },
+    {
+      "name": "AURA-X 2.0 \u2014 Research & Source Agent",
+      "zip": "AURA-X_2.0_04-research-source-agent.zip",
+      "port": 8104,
+      "status": "runnable starter"
+    },
+    {
+      "name": "AURA-X 2.0 \u2014 Data Pipeline & Analytics",
+      "zip": "AURA-X_2.0_05-data-pipeline-analytics.zip",
+      "port": 8105,
+      "status": "runnable starter"
+    },
+    {
+      "name": "AURA-X 2.0 \u2014 Engineering Build & Test",
+      "zip": "AURA-X_2.0_06-engineering-build-test.zip",
+      "port": 8106,
+      "status": "runnable starter"
+    },
+    {
+      "name": "AURA-X 2.0 \u2014 Video, Image & Audio Workflow",
+      "zip": "AURA-X_2.0_07-media-workflow.zip",
+      "port": 8107,
+      "status": "runnable starter"
+    },
+    {
+      "name": "AURA-X 2.0 \u2014 Offline/Online Sync Queue",
+      "zip": "AURA-X_2.0_08-offline-online-sync.zip",
+      "port": 8108,
+      "status": "runnable starter"
+    },
+    {
+      "name": "AURA-X 2.0 \u2014 Monitoring & Admin Alerts",
+      "zip": "AURA-X_2.0_09-monitoring-alerts.zip",
+      "port": 8109,
+      "status": "runnable starter"
+    },
+    {
+      "name": "AURA-X 2.0 \u2014 Academic & STEM Solver Gateway",
+      "zip": "AURA-X_2.0_10-subjects-math-science.zip",
+      "port": 8110,
+      "status": "runnable starter"
+    }
+  ],
+  "added_ui_package": "11-mobile-voice-workspace",
+  "ui_features": [
+    "multilingual speech-to-text UI",
+    "text-to-speech playback",
+    "file selection and local download",
+    "camera/photo/video recording",
+    "experimental QR scanning",
+    "chat and messenger UI placeholders"
+  ]
+}
